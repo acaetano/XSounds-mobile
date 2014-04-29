@@ -1,0 +1,25 @@
+body{
+
+
+}
+
+#abrir_arquivo
+{
+    visibility: hidden;
+    display: none;
+}
+
+button
+{
+    border: 2px solid;
+    border-color: #55aacb;
+    border-radius: 7px;
+    background: #ffffff;
+    font-family: arial;
+    font-size: 1em;
+}
+
+#btplay
+{
+    width: 61px;
+}
